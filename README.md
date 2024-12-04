@@ -4,14 +4,14 @@
 
 Sou um estudante de Engenharia da Computação na [UTFPR](https://utfpr.edu.br), atualmente trabalhando em melhorar a qualidade dos meus projetos, especialmente em tecnologias CI/CD como GitHub Actions e conteinerização de ambientes de desenvolvimento para acesso via GitHub Codespaces.
 
-## Adoro desenvolver em:
+## Adoro desenvolver com:
 
-- 🦀 Rust
-- 🐍 Python
-- 🟠 Svelte
+- 🦀 Rust (com [clap](https://github.com/clap-rs/clap))
+- 🐍 Python (com [platformdirs](https://github.com/tox-dev/platformdirs))
+- 🟠 Svelte (com [flowbite-svelte](https://github.com/themesberg/flowbite-svelte))
 
-## Bibliotecas Incríveis:
+## Notas finais
 
-- 🦀 [clap](https://github.com/clap-rs/clap)
-- 🐍 [platformdirs](https://github.com/tox-dev/platformdirs)
-- 🟠 [flowbite-svelte](https://github.com/themesberg/flowbite-svelte)
+Obrigado por visitar meu repositório! Sinta-se livre para dar uma olhada no que ando trabalhando 🤗
+
+Caso eu não te veja mais... bom dia, boa tarde e boa noite!
