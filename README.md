@@ -1,16 +1,17 @@
-## Hi there 👋
+<img src="https://github.com/user-attachments/assets/d4068d2c-9aed-433c-a79d-686d978d439a" align="right" width="200px">
 
-<!--
-**jhenriquelc/jhenriquelc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Oiiiii 👋🏽
 
-Here are some ideas to get you started:
+Sou um estudante de Engenharia da Computação na [UTFPR](https://utfpr.edu.br), atualmente trabalhando em melhorar a qualidade dos meus projetos, especialmente em tecnologias CI/CD como GitHub Actions e conteinerização de ambientes de desenvolvimento para acesso via GitHub Codespaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Adoro desenvolver em:
+
+- 🦀 Rust
+- 🐍 Python
+- 🟠 Svelte
+
+## Bibliotecas Incríveis:
+
+- 🦀 [clap](https://github.com/clap-rs/clap)
+- 🐍 [platformdirs](https://github.com/tox-dev/platformdirs)
+- 🟠 [flowbite-svelte](https://github.com/themesberg/flowbite-svelte)
