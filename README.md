@@ -12,6 +12,6 @@ Sou um estudante de Engenharia da Computação na [UTFPR](https://utfpr.edu.br),
 
 ## Notas finais
 
-Obrigado por visitar meu repositório! Sinta-se livre para dar uma olhada no que ando trabalhando 🤗
+Obrigado por visitar meu perfil! Sinta-se livre para dar uma olhada no que ando trabalhando 🤗
 
 Caso eu não te veja mais... bom dia, boa tarde e boa noite!
