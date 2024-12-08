@@ -1,17 +1,17 @@
 <img src="https://github.com/user-attachments/assets/d4068d2c-9aed-433c-a79d-686d978d439a" align="right" width="200px">
 
-## Oiiiii 👋🏽
+## Hiiiii 👋🏽
 
-Sou um estudante de Engenharia da Computação na [UTFPR](https://utfpr.edu.br), atualmente trabalhando em melhorar a qualidade dos meus projetos, especialmente em tecnologias CI/CD como GitHub Actions e conteinerização de ambientes de desenvolvimento para acesso via GitHub Codespaces.
+I'm a Computer Engineering student at [UTFPR](https://utfpr.edu.br), currently working to enhance my project's quality, employing CI/CD technologies such as GitHub Actions and standardizing dev environments with GitHub Codespaces, ensuring all my learning partners have an adequate setup that checks their work as they write it.
 
-## Adoro desenvolver com:
+## I love developing in:
 
-- 🦀 Rust (com [clap](https://github.com/clap-rs/clap))
-- 🐍 Python (com [platformdirs](https://github.com/tox-dev/platformdirs))
-- 🟠 Svelte (com [flowbite-svelte](https://github.com/themesberg/flowbite-svelte))
+- 🦀 Rust (with [clap](https://github.com/clap-rs/clap))
+- 🐍 Python (with [platformdirs](https://github.com/tox-dev/platformdirs))
+- 🟠 Svelte (with [flowbite-svelte](https://github.com/themesberg/flowbite-svelte))
 
-## Notas finais
+## Ending notes
 
-Obrigado por visitar meu perfil! Sinta-se livre para dar uma olhada no que ando trabalhando 🤗
+Thanks for visiting my profile! Please feel free to have a look around what I've been working on 🤗
 
-Caso eu não te veja mais... bom dia, boa tarde e boa noite!
+In case I don't see you again... good morning, good evening and good night!
