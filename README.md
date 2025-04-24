@@ -2,7 +2,7 @@
 
 ## Hiiiii 👋🏽
 
-I'm a Computer Engineering student at [UTFPR](https://utfpr.edu.br), currently trying not to lose my head in this very busy semester.
+I'm a Computer Engineering student at [UTFPR](https://utfpr.edu.br), currently trying not to lose my head due to a very busy semester.
 
 ## I love developing in:
 
