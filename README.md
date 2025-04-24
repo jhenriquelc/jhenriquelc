@@ -2,7 +2,7 @@
 
 ## Hiiiii 👋🏽
 
-I'm a Computer Engineering student at [UTFPR](https://utfpr.edu.br), currently working to enhance my projects' quality, employing CI/CD technologies such as GitHub Actions and standardizing dev environments with GitHub Codespaces, ensuring all my learning partners have an adequate setup that checks their work as they write it.
+I'm a Computer Engineering student at [UTFPR](https://utfpr.edu.br), currently trying not to lose my head in this very busy semester.
 
 ## I love developing in:
 
